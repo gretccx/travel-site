@@ -1,1 +1,3 @@
-alert('This is a test for webpack automation');
+import MobileMenu from './modules/MobileMenu';
+
+const mobileMenu = new MobileMenu();
